@@ -1,7 +1,6 @@
 ---
-title: How Do I Develop My Terminal Portfolio Website with React
 author: Sat Naing
-pubDatetime: 2022-06-09T03:42:51Z
+title: How Do I Develop My Terminal Portfolio Website with React
 slug: how-do-i-develop-my-terminal-portfolio-website-with-react
 featured: false
 draft: false
@@ -11,16 +10,17 @@ tags:
   - ContextAPI
   - Styled-Components
   - TypeScript
-description:
-  "EXAMPLE POST: Developing a terminal-like website using ReactJS, TypeScript and Styled-Components.
-  Includes features like autocomplete, multiple themes, command hints etc."
+description: "EXAMPLE POST: Developing a terminal-like website using ReactJS,
+  TypeScript and Styled-Components. Includes features like autocomplete,
+  multiple themes, command hints etc."
 ---
-
 > This article is originally from my [blog post](https://satnaing.dev/blog/posts/how-do-i-develop-my-terminal-portfolio-website-with-react). I put this article to demonstrate how you can write blog posts/articles using AstroPaper theme.
 
 Developing a terminal-like website using ReactJS, TypeScript and Styled-Components. Includes features like autocomplete, multiple themes, command hints etc.
 
 ![Sat Naing's Terminal Portfolio](https://satnaing.dev/_ipx/w_2048,q_75/https%3A%2F%2Fres.cloudinary.com%2Fnoezectz%2Fimage%2Fupload%2Fv1654754125%2FSatNaing%2Fterminal-screenshot_gu3kkc.png?url=https%3A%2F%2Fres.cloudinary.com%2Fnoezectz%2Fimage%2Fupload%2Fv1654754125%2FSatNaing%2Fterminal-screenshot_gu3kkc.png&w=2048&q=75)
+
+<img src="[https://upload.wikimedia.org/wikipedia/en/8/89/Balatro\_cover.jpg](https://upload.wikimedia.org/wikipedia/en/8/89/Balatro_cover.jpg)">
 
 ## Table of contents
 
@@ -32,9 +32,12 @@ Recently, I've developed and published my portfolio + a blog. I’m glad I got s
 
 This project is a frontend project without any backend codes. The UI/UX part is designed in Figma. For the frontend user-interface, I chose React over pain JavaScript and NextJS. Why?
 
-- Firstly, I want to write declarative code. Managing HTML DOM using JavaScript imperatively is really tedious.
-- Secondly, because it is React!!! It is fast, and reliable.
-- Lastly, I don’t need much of the SEO features, routing and image optimization provided by NextJS.
+*   Firstly, I want to write declarative code. Managing HTML DOM using JavaScript imperatively is really tedious.
+    
+*   Secondly, because it is React!!! It is fast, and reliable.
+    
+*   Lastly, I don’t need much of the SEO features, routing and image optimization provided by NextJS.
+    
 
 And of course there's TypeScript for type checking.
 
@@ -44,11 +47,16 @@ This project doesn’t need very complex state management. I just use ContextAPI
 
 Here’s a quick recap for the tech stack.
 
-- Frontend: [ReactJS](https://reactjs.org/ "React Website"), [TypeScript](https://www.typescriptlang.org/ "TypeScript Website")
-- Styling: [Styled-Components](https://styled-components.com/ "Styled-Components Website")
-- UI/UX: [Figma](https://figma.com/ "Figma Website")
-- State Management: [ContextAPI](https://reactjs.org/docs/context.html "React ContextAPI")
-- Deployment: [Netlify](https://www.netlify.com/ "Netlify Website")
+*   Frontend: [ReactJS](https://reactjs.org/), [TypeScript](https://www.typescriptlang.org/)
+    
+*   Styling: [Styled-Components](https://styled-components.com/)
+    
+*   UI/UX: [Figma](https://figma.com/)
+    
+*   State Management: [ContextAPI](https://reactjs.org/docs/context.html)
+    
+*   Deployment: [Netlify](https://www.netlify.com/)
+    
 
 ## Features
 
@@ -84,5 +92,6 @@ This is a really fun project, and one special part of this project is I had to f
 
 ## Project Links
 
-- Website: [https://terminal.satnaing.dev/](https://terminal.satnaing.dev/ "https://terminal.satnaing.dev/")
-- Repo: [https://github.com/satnaing/terminal-portfolio](https://github.com/satnaing/terminal-portfolio "https://github.com/satnaing/terminal-portfolio")
+*   Website: [https://terminal.satnaing.dev/](https://terminal.satnaing.dev/)
+    
+*   Repo: [https://github.com/satnaing/terminal-portfolio](https://github.com/satnaing/terminal-portfolio)
